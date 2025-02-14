@@ -1,0 +1,19 @@
+:root {
+
+}
+.cuerpo{
+    background-color: bisque;
+    
+}
+.cabecera{
+    background-color: azure;
+    height: 5cm;
+}
+.img{
+    height: 5cm;
+}
+.menu{
+    text-decoration: none;
+    display: inline;
+    color: black;
+}
